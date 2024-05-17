@@ -12,5 +12,6 @@ func main()	{
 	structures.Foods()
 	structures.GiveMeSomeNumbers()
 	structures.ShouldIBuyAHarleyDavidson()
+	structures.WhatTheStruct()
 	fmt.Print("Hello World")
 }
