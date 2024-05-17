@@ -1,5 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "go.coverOnSave": true,
-  "go.formatTool": "custom"
-}
