@@ -3,6 +3,7 @@ package structures
 import "fmt"
 
 func GiveMeSomeNumbers() {
+	fmt.Print("Numbers: ")
 	integerOne := 3 //this is a integer
 	floatOne := 1.5 // this is a float64
 	/*

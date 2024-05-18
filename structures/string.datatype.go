@@ -3,6 +3,7 @@ package structures
 import "fmt"
 
 func SayTaco()	{
+	fmt.Print("Strings: ")
 	text := "tacooooo" //this is a string. Simple.
 	/*
 	By definition, a string is a sequence of Unicode characters.

@@ -12,6 +12,7 @@ type Person struct {
 
 
 func WhatTheStruct() {
+	fmt.Print("Structs: ")
 	person := Person{name: "Felipe", age: 18, handsome:true}
 	/*
 	this is one possibility to implement a struct, but you can also ommit the keys, just passing the values, like that:
